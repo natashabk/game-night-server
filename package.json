@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-ws": "^4.0.0",
-    "heroku": "^7.47.6",
+    "heroku": "^7.59.0",
     "heroku-cli": "^7.0.9",
     "lodash": "^4.17.21",
     "node-forge": "^0.10.0",
